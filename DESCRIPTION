@@ -8,7 +8,7 @@ Authors@R: c(
     person("Enzo", "Martoglio", role = c("aut", "cre"),
        comment = "R interface", email = "enzo@smartinsightsfromdata.com")
     )
-Maintainer: Enzo Martoglio  <enzo@smartinsightsfromdata.com>
+Maintainer: Enzo Martoglio  <enzo@smartinsightsfromdata.com.>
 Description: this package is a wrapper of PivotTable.js is an open-source
     Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab)
     implementation with drag'n'drop functionality written by Nicolas Kruchten.
