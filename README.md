@@ -1,4 +1,4 @@
-### rpivotTable:  pivottable for R
+### rpivotTable:  pivottable for R.
 
 The rpivotTable package is an R [htmlwidget](http://htmlwidgets.org)  built around the [pivottable](http://nicolas.kruchten.com/pivottable/examples/)  library.
 
